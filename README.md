@@ -29,6 +29,7 @@ Product by Sales (Table View)
 Sales by Category (Pie Chart)
 
 📷 Dashboard Previews
+
 🔹 Overall Sales (All Years)
 
 🔹 Filtered View (December 2014)
